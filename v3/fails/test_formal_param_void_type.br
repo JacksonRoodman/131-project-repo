@@ -1,4 +1,4 @@
-def main() {
+ def main() {
   print("Starting test");
   foov(1);
 }
